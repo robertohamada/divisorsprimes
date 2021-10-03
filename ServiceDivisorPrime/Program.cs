@@ -22,5 +22,5 @@ namespace ServiceDivisorPrime
                 {
                     webBuilder.UseStartup<Startup>();
                 });
-    }
+    } 
 }
